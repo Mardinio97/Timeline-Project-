@@ -1,0 +1,12 @@
+/target
+/out
+/bin
+/.settings
+/.idea
+.classpath
+.project
+timeline.iml
+TimelineFresh.iml
+/DB2
+/DB
+*.DS_Store
